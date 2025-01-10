@@ -19,4 +19,5 @@ Learning advanced techniques like query optimization and analytical functions
 
 This GitHub profile is a reflection of my passion for continuous learning and data-driven growth. Let’s connect and grow together!
 
-![50-Days-SQL-Challenge - visual selection](https://github.com/user-attachments/assets/35425234-8a8b-4b95-9182-a521c9192547)
+![50-Days-SQL-Challenge - visual selection (1)](https://github.com/user-attachments/assets/4a6f9b94-47f7-4961-9929-7aa18bf59b6c)
+
