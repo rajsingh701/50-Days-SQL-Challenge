@@ -1,1 +1,1 @@
-# 50-Days-SQL-Challenge-
+# 50-Days-SQL-Challenge
